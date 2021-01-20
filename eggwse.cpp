@@ -6,5 +6,4 @@ void main() {
     cout << "привет";
     string name;
     cin >> name;
-    char rt = 'ret';
 }
