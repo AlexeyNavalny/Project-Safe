@@ -1,48 +1,10 @@
-gdsgdsgsg
-asffasasfsafasf
+#include <iostream>;
 
-fsaasfasf
+using namespace std;
 
-
-falseasf
-falses
-
-f
-__cpp_alias_templatesf
-aseqw
-edwsqaseqw
-ewqe
-decltypeqwq
-rd\qw
-else if (qwe
-wqwq
-e
-{{{ qw
-qwew
-q
-w
-x
-asd
-
-as
-
-asew
-qrt
-yqe
-yw
-eyy]ewq;[wq
-wq
-]weq'ауфйкацй'
-\
-s
-s
-s])
-{
-    /* code */
+void main() {
+    cout << "привет";
+    string name;
+    cin >> name;
+    char rt = 'ret';
 }
-
-}
-
-
-
-//я ебал ваших матерей)))
